@@ -103,6 +103,8 @@ This project serves as study material for:
 
 ---
 
+Markdown Written with Gemini-3.0-pro
+
 ## 📄 License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
